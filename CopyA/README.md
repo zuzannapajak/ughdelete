@@ -1,2 +1,2 @@
 # 247038
-Hello (A)! Changes in the file
+Hello(A)! Changes in the file
